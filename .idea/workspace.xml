@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d33036c-8c3f-4d01-90bb-ca9b6f355db1" name="Changes" comment="" />
+    <list default="true" id="0d33036c-8c3f-4d01-90bb-ca9b6f355db1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/IR2126_prаctica1_memoria_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/ejercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/ejercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/ejercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/ejercicio04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/banderaIrlanda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/banderaItalia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/belgium_flag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/flecha.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/flecha_transparente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/mapas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/mapas100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/mapas15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica1_MaxPuigSariдena/Practica1/images/mapas75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/IR2126_prac2_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/calle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_clara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_clara_cub.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_eq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_eq_adapt_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_eq_adapt_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_eq_adapt_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/img_original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica2_MaxPuigSariдena/Practica2/images/templo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/IR2126_prac3_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/ejercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/ejercicio02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/ejercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/images/Albert_Einstein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/images/Marilyn_Monroe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica3_MaxPuigSariñena/images/lena256.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/IR2126_prac4_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/images/boat.512.tiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/images/borrosa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica4_MaxPuigSariдena/practica4/images/ojo_azul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/IR2126_prac5_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica5_MaxPuigSariдena/images/boat.511.tiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/IR2126_prac6_MaxPuigSariдena.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/images/cuadros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/images/monedas1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/images/monedas2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/images/monedas3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +77,51 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2fh841CzNfN4Ylm3JgInN13yofj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ejercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IR2126" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IR2126_Practica6_MaxPuigSariдena/ejercicio1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ejercicio1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +139,8 @@
       <updated>1714241754256</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
